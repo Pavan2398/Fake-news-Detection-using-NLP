@@ -1,4 +1,4 @@
- # GROUP - 8 : Fake News Detection Project ( English & telugu)
+ # Fake News Detection ( English & telugu)
 
 ## Technologies Used
 - Python (requests, BeautifulSoup, pandas, ast, spacy, counter, csv, math, sklearn, numpy,flask,scikit-learn)
